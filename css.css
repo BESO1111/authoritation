@@ -1,0 +1,11 @@
+.error-message {
+    display: none;
+}
+
+.visible {
+    display: block;
+}
+
+.in-visible {
+    display: none;
+}
